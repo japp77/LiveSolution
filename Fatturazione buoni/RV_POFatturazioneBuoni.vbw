@@ -1,0 +1,6 @@
+FrmInizio = 110, 145, 869, 613, , 88, 116, 847, 584, C
+ModMain = 132, 174, 891, 642, 
+FrmParametri = 154, 203, 924, 671, , 66, 87, 825, 555, C
+ModPassaggioInterventi = 22, 29, 792, 497, Z
+FrmMovimenti = 66, 87, 836, 555, , 22, 29, 781, 497, C
+frmCreazioneDocumenti = 0, 0, 770, 468, , 44, 58, 803, 526, C
