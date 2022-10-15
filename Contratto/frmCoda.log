@@ -1,0 +1,5 @@
+Riga 74: la classe DmtGridCtl.DmtGrid del controllo Griglia non era una classe di controllo caricata.
+Riga 80: il nome della proprietà _ExtentX in Griglia non è valido.
+Riga 81: il nome della proprietà _ExtentY in Griglia non è valido.
+Riga 92: il nome della proprietà EnableMove in Griglia non è valido.
+Riga 93: il nome della proprietà ColumnsHeaderHeight in Griglia non è valido.
