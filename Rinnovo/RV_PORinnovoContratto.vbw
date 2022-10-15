@@ -1,0 +1,6 @@
+FrmInizio = 88, 116, 586, 542, , 22, 29, 520, 455, C
+ModMain = 44, 58, 542, 484, 
+FrmContrattiPerRinnovo = 110, 145, 608, 571, Z, 66, 87, 564, 513, C
+FrmFine = 22, 29, 518, 455, , 0, 0, 496, 426, C
+ModContratto = 22, 29, 660, 370, 
+ModElaborazioneRate = 156, 156, 895, 598, 

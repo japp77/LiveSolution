@@ -1,0 +1,10 @@
+FrmPresentazione = 44, 58, 543, 494, Z, 22, 29, 521, 465, C
+Main = 88, 116, 587, 552, 
+ModAttivazione = 66, 87, 565, 523, 
+frmAzienda = 154, 203, 860, 671, , 132, 174, 631, 610, C
+ModRegistrazione = 132, 174, 886, 642, 
+ModProcessi = 110, 145, 864, 613, 
+frmProva = 22, 29, 677, 471, , 0, 0, 655, 442, C
+frmCoda = 78, 78, 852, 520, , 26, 26, 800, 468, C
+frmConfigFiliale = 156, 156, 878, 598, , 104, 104, 826, 546, C
+frmControlloDoc = 312, 312, 1386, 962, , 286, 286, 1318, 936, C
