@@ -1,0 +1,5 @@
+FrmInizio = 78, 78, 1118, 728, Z, 26, 26, 1066, 676, C
+ModMain = 130, 130, 1337, 680, 
+FrmContrattiPerRinnovo = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FrmFine = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ModContratto = 0, 0, 0, 0, C
