@@ -1,0 +1,14 @@
+FormField = 0, 0, 0, 0, C
+FormFields = 26, 26, 909, 368, 
+frmInformazioni = 0, 0, 0, 0, C, 78, 78, 863, 520, C
+frmErrorLog = 0, 0, 0, 0, C, 104, 104, 889, 546, C
+frmToolBars = 0, 0, 0, 0, C, 130, 130, 915, 572, C
+frmOption = 0, 0, 0, 0, C, 78, 78, 863, 520, C
+Globali = 78, 78, 837, 520, 
+frmMain = 52, 52, 837, 494, Z, 26, 26, 749, 468, CZ
+ModMain = 156, 156, 1082, 498, 
+Activities = 0, 0, 0, 0, C
+ModGestShortCut = 0, 0, 0, 0, C
+modHTMLHelp = 0, 0, 0, 0, C
+frmTrovaFattura = 52, 52, 811, 494, , 0, 0, 759, 442, C
+frmRateContratto = 0, 0, 733, 442, , 182, 182, 915, 624, C

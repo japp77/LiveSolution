@@ -1,0 +1,12 @@
+FormField = 0, 0, 0, 0, C
+FormFields = 0, 0, 0, 0, C
+frmInformazioni = 0, 0, 0, 0, C, 130, 130, 853, 572, C
+frmErrorLog = 0, 0, 0, 0, C, 156, 156, 879, 598, C
+frmToolBars = 0, 0, 0, 0, C, 182, 182, 905, 624, C
+frmOption = 0, 0, 0, 0, C, 208, 208, 931, 650, C
+Globali = 0, 0, 723, 442, 
+frmMain = 78, 78, 801, 520, , 26, 26, 749, 468, CZ
+ModMain = 26, 26, 749, 468, Z
+Activities = 0, 0, 0, 0, C
+ModGestShortCut = 0, 0, 0, 0, C
+modHTMLHelp = 0, 0, 0, 0, C
